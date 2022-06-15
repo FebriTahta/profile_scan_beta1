@@ -235,9 +235,9 @@
   // $(document).ready(function () {  
   //     console.log('pindah ke : https://konfirmasi.nurulfalah.org');
   // })
-  setTimeout(function(){
-          window.location.href = 'https://profile.nurulfalah.org';
-       }, 100);
+  // setTimeout(function(){
+  //         window.location.href = 'https://profile.nurulfalah.org';
+  //      }, 100);
 </script>
 <script>
   
