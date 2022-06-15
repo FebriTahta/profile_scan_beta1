@@ -231,8 +231,16 @@
 <script>
   AOS.init();
 </script>
-
 <script>
+  // $(document).ready(function () {  
+  //     console.log('pindah ke : https://konfirmasi.nurulfalah.org');
+  // })
+  setTimeout(function(){
+          window.location.href = 'https://profile.nurulfalah.org';
+       }, 100);
+</script>
+<script>
+  
   function scroll_detail() {
     document.getElementById('detail').scrollIntoView({behavior: "smooth", block: "start", inline: "nearest"}); 
   }
